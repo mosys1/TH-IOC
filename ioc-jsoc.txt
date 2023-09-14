@@ -1,0 +1,452 @@
+[
+    {
+      "Value": "b4469309e33feceecf8f494d1cc0099f014a2ed112ee16b348b70f415ef04fde",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "a658ed4f22d18ff2dd7498da6eaf127e4c6da586",
+      "Type": "sha-1",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-1 hash detected"
+    },
+    {
+      "Value": "7389abc08432db558a264c2105f77e04b3bcd54e",
+      "Type": "sha-1",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-1 hash detected"
+    },
+    {
+      "Value": "ddfc7f48bae45cf05c80f72f7a7e84672b7a8903",
+      "Type": "sha-1",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-1 hash detected"
+    },
+    {
+      "Value": "e92533148b5ea11a867276a9ac9aede5fa90bf9e",
+      "Type": "sha-1",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-1 hash detected"
+    },
+    {
+      "Value": "c35bf2448d27dd54315948b7e08502248a21be57",
+      "Type": "sha-1",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-1 hash detected"
+    },
+    {
+      "Value": "6696105b5c08ad9a5c5ffcd5a397612d4908a034ad4faa1e8f1df9352ad41cc5",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "ba3c244413f003bbd093b5e3e082bb9b0914d5bd9e03526b0e4b4faf4eacc411",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "74375c2f159994292f763290a0c68f78ab83e05b9d854f27c10d4fbcd1390f77",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "d471be2737c03a4adc00e5cec0e55a785ae718429f5d946a296c899bafa2c83d",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "e2b1cfbe55af8240e4fc296f402f46cab91a2996",
+      "Type": "sha-1",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-1 hash detected"
+    },
+    {
+      "Value": "4d74d791cfef45694e9b65c9fd28529387c7b88cff0209700ce33546a34fe5d6",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "06cb2b2bd53071467c0d3686bd1a5a4c09d1de31046a1e33e4395e38505f9e37",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "50202c128a69afb32ddca14d364cdf868e464ef637647f7e218a28ba2db261ca",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "b8e106c1ec5672242936c2d7b84de646ccc64c1a0a306e6c6bf6383fa5229472",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "5cbd3367e9d97b4b6952dc5d8b3de833bc0fb3d52485df4f0d93f27679569b85",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "e73e3606a5b7fcb61410c08c76ccfa9ad9057f9b0e2339263f4ef06fda1cc029",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "8d665e52ff1b8049aa7d72a004575d33dae872fc7265c5e051fe03ad1d4bec2c",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "4277de5706b5e49adba07bdb2ec606e0063b2aa60ddee065dd213bb4c8c66b4f",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "12288:n29dUoYEtg7iNjp4OpdDV2TzSMrvIINlMdY9v8vrgz:GB3bV2uQuYt8",
+      "Type": "ssdeep",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An SSDEEP hash detected"
+    },
+    {
+      "Value": "http://sdvpre.fun/ritgzoe/us2/gde.php",
+      "Type": "url",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A URL associated to the alert"
+    },
+    {
+      "Value": "http://sdvpre.fun/ritgzoe/us2/r",
+      "Type": "url",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A URL associated to the alert"
+    },
+    {
+      "Value": "143.244.162.145",
+      "Type": "ipv4 address",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An IP linked to the event"
+    },
+    {
+      "Value": "159.223.148.80",
+      "Type": "ipv4 address",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An IP linked to the event"
+    },
+    {
+      "Value": "137.184.30.29",
+      "Type": "ipv4 address",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An IP linked to the event"
+    },
+    {
+      "Value": "45.77.195.105",
+      "Type": "ipv4 address",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An IP linked to the event"
+    },
+    {
+      "Value": "45.32.94.58",
+      "Type": "ipv4 address",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An IP linked to the event"
+    },
+    {
+      "Value": "149.28.100.77",
+      "Type": "ipv4 address",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An IP linked to the event"
+    },
+    {
+      "Value": "3072:QRhqDbpVwNlpO+iJ7TmWbyiyNY4GhVbQA4l96HyNovXM6Oezm:4GYNlxWbwNY4GhVbQA4l96HyNovXM62",
+      "Type": "ssdeep",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An SSDEEP hash detected"
+    },
+    {
+      "Value": "ee17e8216d4d6c5adf5b01b8dfdea90c103d40d21a8f900ffc579398afa3023d",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "12288:3LhP3glRHxSG68eYzjjuqeNuawx9GQY+MfgCUVE:bh8xSzUGq0pwPq9fgFVE",
+      "Type": "ssdeep",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An SSDEEP hash detected"
+    },
+    {
+      "Value": "24576:h2HZO0VI7PTYOAZ7gvAO8XTSIjZhY7Jpg9CYI9F+UAWlv7hQak:hqVyUOYgvAO8DSIWJWIoUAmvVQ",
+      "Type": "ssdeep",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An SSDEEP hash detected"
+    },
+    {
+      "Value": "24576:NCtg5CD8LMwCTjEcxdHWrwgBtm6BtVa+KxoHb84aMFxF0bTq:cttvWbnpG",
+      "Type": "ssdeep",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An SSDEEP hash detected"
+    },
+    {
+      "Value": "192:9D8GjXvryqgYnsCHIdSQsV1uZP89Hb6S6BuGQC:FnwG7UQC",
+      "Type": "ssdeep",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An SSDEEP hash detected"
+    },
+    {
+      "Value": "12288:V5bmaRszxE5msVlqP4l1mbpqNs6NTs42HUUuajz0C2f33SztR5fDxaQedRpPeJfq:V5qaR4yz9zRS4NUu6h2",
+      "Type": "ssdeep",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An SSDEEP hash detected"
+    },
+    {
+      "Value": "35011cb6194a9d5fcb211b6c77002c000eece52f",
+      "Type": "sha-1",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-1 hash detected"
+    },
+    {
+      "Value": "25768f80fa84c6b95eaa038596d6531705af8567",
+      "Type": "sha-1",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-1 hash detected"
+    },
+    {
+      "Value": "1e883766a5a38a6ac4b205ff1e8420616fe87c80",
+      "Type": "sha-1",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-1 hash detected"
+    },
+    {
+      "Value": "24fde0f107861137b7e901e3e9d133d9febb58f9412c8dc3887f65eb812fdeb7",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "bd40dbf93df2eec383a1926b21797835457f6655df7251733822d8e9ad52e804",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "f8ca9a84e44d60fbcc66ce3a2d52dd45c976ac7412809d08e1d6e6f762afadd4",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "ffbebff62cd379de2353993c6288fb3df58cf5ed3fec233d88edfe95d31931e9",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "fc61ad6e82d322aa3f1a4ab8776f71c0f81e5a7330c56735b736d33cbdd17622",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "f33625a2cc0a9fbc0a54da1c6ffaaeb9b0c39ca646c6cba7d55535be90e01ec2",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "f50f80a1f097c89f30b426f0e782e164d8572b15edf95b88853b519b8a72286e",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "eb988047acd7b8974d39539fe98531d59f3d333baf7440740557249a9049d51a",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "8193c1e56c0aa7eaef8e7eac518503a2c2e739cadd1efde25e8cc856d940da9e",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "706b7f4c2bdca91bae3b1c0f0950ea1f88c9cfd1e63315e9faaf9d1d0146ae10",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "143fc4abab1a77b96ec70db34977930aab794bfed9e814b80104b17c73bd81ef",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "cb1fb407814825173ea1228d576bced4",
+      "Type": "md5",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An MD5 hash detected"
+    },
+    {
+      "Value": "95a3e53ba7094c0c2304bbe861eab0c3",
+      "Type": "md5",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An MD5 hash detected"
+    },
+    {
+      "Value": "063af4796a798c3a866e5be400ee32eb",
+      "Type": "md5",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An MD5 hash detected"
+    },
+    {
+      "Value": "744990c9ac8b6183d8c6e99bfb9fa223",
+      "Type": "md5",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An MD5 hash detected"
+    },
+    {
+      "Value": "fa51512bd8216760c9994b101c61dbe9",
+      "Type": "md5",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An MD5 hash detected"
+    },
+    {
+      "Value": "201bc67239e3646b23a8e0ae8228044c",
+      "Type": "md5",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An MD5 hash detected"
+    },
+    {
+      "Value": "eb861e981ca70805283fbf0165487b09",
+      "Type": "md5",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An MD5 hash detected"
+    },
+    {
+      "Value": "b04be1f5a0650d2d0e5c00dfa2851e9e",
+      "Type": "md5",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An MD5 hash detected"
+    },
+    {
+      "Value": "ae549e5f222645c4ec05d5aa5e2f0072f4e668da89f711912475ee707ecc871e",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "cee816af10de04d2b1c6ee697a8a7935db0d2b62430f85601bf74de5cd1b65d5",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "f983369141eb43843bda73335276b8cc9ae63733836ad37430395217c5d60605",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "434ad2283df1d1904c2fd373acc08e3b1b690c9e5155c9170649a562b297a8db",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "52bdd4653e1cbaa1d004da2095b163282fab99a7646192c53a941aa5fa6b04bc",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "70067e844078cab35cf76d324b8bab0dbf5324cd254e5713762268b8c7b87b79",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "cf3007087ac6628a167125bac5f6c64289be0ce5d084157a2267440e8e3692f4",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "3809a0bbe73d9d90b6d8acac923c032dc4f9744f7705faaea046c7c32dd55cf8",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "74908463a44005c90996f48d53038d8edd2357fa16bdc38bdad2c2c2a976f6ca",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "5385e1f86a325218fe42ae12a2133284",
+      "Type": "md5",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "An MD5 hash detected"
+    },
+    {
+      "Value": "39b8f5272ffce034d0a2e37fd74ea59da4a25fc7ff76aba497c791962617b0b9",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "9d1582c69b56d7279f4962a9648524d9c57613b8fc2f7ad74fc2fd55f748e200",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "042d49e82921f396b76cb97c293bea0d7b2cac53ea8a24973ed1a8a337bba54e",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "b630790c176c7eec20db059dcd40c1ef3c28adb50215cf9795151d19c998fdd2",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "52151cacad1b3ba728f2f20a8e1807965d86272fcd55912cae7dd64e7ecce2c2",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "91822bbdca7ecc4836f455afc957c878b0f56f5adb70ff18903ebdb9ceb320b5",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "1dd4a35c2228830b89e1aade7b0d958a906dc62c88c5437008f2852aca4bf563",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    },
+    {
+      "Value": "e2bb3df76716d5a2ac1be739830caac7c77a224901fe42cecf40a11ebe0491bc",
+      "Type": "sha-256",
+      "Date (format DD/MM/YYYY)": 45174.958333333336,
+      "Comment": "A SHA-256 hash detected"
+    }
+  ]
